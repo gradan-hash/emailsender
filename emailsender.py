@@ -6,10 +6,10 @@ import ssl
 import smtplib
 
 
-email_sender = "corneliusmutuku55@gmail.com"
-email_password = "duxeogppswjksthp"
+email_sender = ""#the senders email
+email_password = ""
 
-email_receiver = "mutukunyaa@gmail.com"
+email_receiver = "" #receiver mail
 
 subject = "hello work hard brother"
 body = "usichoke mwanangu kasongee motive: "
